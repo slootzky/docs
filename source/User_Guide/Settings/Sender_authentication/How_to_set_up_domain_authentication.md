@@ -7,7 +7,7 @@ seo:
   description: Domain authentication shows email providers that SendGrid has your permission to send emails on your behalf. To give SendGrid permission, you point DNS entries from your domain registrar to SendGrid.
   keywords: whitelabeling, domain whitelabeling, domain authentication, sender authentication
 navigation:
-  show: false
+  show: true
 ---
 
 <iframe src="https://player.vimeo.com/video/265066856" width="700" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
